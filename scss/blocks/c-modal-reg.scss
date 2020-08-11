@@ -1,0 +1,19 @@
+.c-modal-reg {
+  max-width: 550px;
+  width: 100%;
+  height: calc(100vh - 80px);
+  background: white;
+  position: absolute;
+  right: 0;
+  z-index: 1;
+  box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
+  top: 100%;
+  padding: 45px;
+  overflow-y: scroll;
+  cursor: pointer;
+  right: -550px;
+  transition: all ease .3s;
+  &.active {
+    right: 0;
+  }
+}

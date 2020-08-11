@@ -1,0 +1,37 @@
+.c-progressbar{
+  position: relative;
+  position: fixed;
+  width: 50%;
+  bottom: 90px;
+  background: #fff;
+  max-width: 1050px;
+  width: calc(100% - 30px);
+  height: 100px;
+  z-index: 1;
+  right: 50%;
+  transform: translateX(50%);
+  border-radius: 6px;
+  box-shadow: 0 8px 11px rgba(0,0,0, .16)!important;
+  overflow: hidden;
+  margin: 0 15px;
+  display: none;
+
+  @include media-breakpoint-up(md){
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+  }
+  &__progress{
+    height: 8px;
+    background: $color-1;
+    width: 0%;
+    border-radius: 6px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  p{
+    margin-bottom: 0;
+  }
+}

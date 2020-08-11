@@ -1,0 +1,23 @@
+.c-face{
+  margin-bottom: 20px;
+  img{
+    width: 75%;
+    max-width: 110px;
+    margin-bottom: 15px;
+  }
+
+  span{
+    display: block;
+    margin-bottom: 10px;
+    @include media-breakpoint-up(xxl){
+      font-size: 25px;
+    }
+  }
+
+  p{
+    color: $color-light;
+    @include media-breakpoint-up(xxl){
+      font-size: 20px;
+    }
+  }
+}

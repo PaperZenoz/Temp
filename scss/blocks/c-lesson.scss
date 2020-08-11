@@ -1,0 +1,22 @@
+.c-lesson{
+  border-left: 9px solid transparent;
+  &:hover{
+    border-left: 9px solid #37A54E;
+    background: linear-gradient(90deg, rgba(78,173,144,0.3) 0%, $bg-1 );
+  }
+
+  &.active{
+    border-left: 9px solid #37A54E;
+    background: linear-gradient(90deg, rgba(78,173,144,0.3) 0%, $bg-1 ) !important;
+    color: $color-main !important;
+  }
+
+  &__prev{
+    height: 100px;
+
+    @include media-breakpoint-up(xxl){
+      height: 220px;
+    }
+  }
+}
+

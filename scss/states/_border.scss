@@ -1,0 +1,6 @@
+.border{
+  &--1{
+    border: 2px dashed $color-light-1;
+    border-radius: 14px;
+  }
+}

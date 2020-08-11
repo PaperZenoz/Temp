@@ -1,0 +1,41 @@
+.c-nav{
+  position: relative;
+  &__list{
+    position: absolute;
+    background: white;
+    padding: 10px;
+    width: 100vw;
+    height: 100vh;
+    right: -100vw;
+    display: block;
+    z-index: 1;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+    bottom: 0;
+    top: 9px;
+    transition: all ease .3s;
+    display: none;
+    text-align: center;
+
+    .nav-item{
+      height: 30px;
+      line-height: 30px;
+      transition: all ease .3s;
+      &:hover{
+        background: $color-1;
+        a{
+          color: white;
+        }
+      }
+    }
+
+    &.active{
+      right: 0;
+    }
+
+    @include media-breakpoint-down(lg){
+      display: block;
+    }
+  }
+
+
+}

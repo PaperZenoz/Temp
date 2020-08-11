@@ -1,0 +1,16 @@
+.c-fixed-btn {
+  background: white;
+  width: 100vw;
+  background: white;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  padding: 15px;
+  display: flex;
+  border-top: 1px solid #f3f3f3;
+  display: block;
+  z-index: 100;
+  @include media-breakpoint-up(md) {
+    display: none;
+  }
+}

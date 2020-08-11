@@ -1,0 +1,121 @@
+
+.font-size {
+  &-1 {
+    font-size: rem(12);
+  }
+  &-2 {
+    font-size: rem(14);
+  }
+  &-3 {
+    font-size: rem(16);
+  }
+  &-4 {
+    font-size: rem(18);
+  }
+
+  &-5 {
+    font-size: rem(24);
+  }
+
+  &-6 {
+    font-size: rem(35);
+  }
+
+
+}
+
+@include media-breakpoint-up(xxl){
+  .font-size--xxl {
+    &-11 {
+      font-size: rem(11) !important;
+    }
+
+    &-13 {
+      font-size: rem(13) !important;
+    }
+    &-15 {
+      font-size: rem(15) !important;
+    }
+    &-16 {
+      font-size: rem(16) !important;
+    }
+    &-17 {
+      font-size: rem(17) !important;
+    }
+    &-18 {
+      font-size: rem(18) !important;
+    }
+    &-19 {
+      font-size: rem(19) !important;
+    }
+    &-20 {
+      font-size: rem(20) !important;
+    }
+    &-21 {
+      font-size: rem(21) !important;
+    }
+    &-22 {
+      font-size: rem(21) !important;
+    }
+    &-23 {
+      font-size: rem(23) !important;
+    }
+    &-24 {
+      font-size: rem(24) !important;
+    }
+    &-25 {
+      font-size: rem(25) !important;
+    }
+    &-26 {
+      font-size: rem(26) !important;
+    }
+    &-27 {
+      font-size: rem(27) !important;
+    }
+    &-28 {
+      font-size: rem(28) !important;
+    }
+    &-29 {
+      font-size: rem(29) !important;
+    }
+    &-30 {
+      font-size: rem(30) !important;
+    }
+    &-32 {
+      font-size: rem(32) !important;
+    }
+    &-34 {
+      font-size: rem(34) !important;
+    }
+    &-35 {
+      font-size: rem(35) !important;
+    }
+    &-39 {
+      font-size: rem(39) !important;
+    }
+    &-40 {
+      font-size: rem(40) !important;
+    }
+    &-45 {
+      font-size: rem(45) !important;
+    }
+    &-50 {
+      font-size: rem(50) !important;
+    }
+    &-65 {
+      font-size: rem(65) !important;
+    }
+    &-70 {
+      font-size: rem(70) !important;
+    }
+    &-75 {
+      font-size: rem(75) !important;
+    }
+    &-79 {
+      font-size: rem(79) !important;
+    }
+    &-124 {
+      font-size: rem(124) !important;
+    }
+  }
+}

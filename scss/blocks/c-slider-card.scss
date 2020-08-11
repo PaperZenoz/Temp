@@ -1,0 +1,23 @@
+.c-slider-card{
+  &__text{
+    padding: 30px;
+    color: $color-light;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    margin: 10px 0;
+
+    img{
+      margin-top: 10px;
+    }
+  }
+
+  &__photo{
+    display: flex;
+    align-items: center;
+
+    img{
+      width: 60px;
+      margin-right: 10px;
+    }
+
+  }
+}

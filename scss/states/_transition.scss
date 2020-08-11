@@ -1,0 +1,5 @@
+$transitions:(
+	0:all 0.3s,
+);
+
+@include each-property($transitions, transition);

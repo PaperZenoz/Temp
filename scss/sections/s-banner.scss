@@ -1,0 +1,8 @@
+.s-banner{
+  height: 800px;
+  background: url("images/banner.jpg") top/cover;
+
+  @include media-breakpoint-down(md){
+    height: 400px;
+  }
+}

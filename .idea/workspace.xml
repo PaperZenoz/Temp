@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b803359c-d47f-4f38-8b57-a3a6e6c98128" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-big-list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-btn.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-burger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-face.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-hover-block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-icon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-img.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-lang.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-lesson.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-line.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-link.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-modal-reg.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-nav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-progressbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-slider-card.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-switcher.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-tablist.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-tags.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-template.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-textarea.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-title.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/c-video.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/blocks/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/sections/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/sections/s-banner.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/states/_border.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-about-company/image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-about-company/logo-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-about-company/logo-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-about-company/logo-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-house/line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-index/bg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-index/bg-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-index/image-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-index/image-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-index/image-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-index/image-primary.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-job-openings/hh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/common/page-partners/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/svg/components/c-360-degrees.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/svg/components/c-camera.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/svg/components/c-mark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/svg/components/c-office-material.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/svg/icons/icon-mouse.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/svg/icons/icon-move.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/svg/icons/icon-quote.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-arrow/icon-arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-background-lines/line-primary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-background-lines/line-quaternary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-background-lines/line-secondary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-background-lines/line-section-primary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-background-lines/line-section-quaternary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-background-lines/line-section-secondary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-background-lines/line-section-tertiary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-background-lines/line-tertiary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-btn/icon-drone.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-btn/icon-params.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-btn/icon-right-arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-btn/icon-town.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-burger/c-letter-primary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-burger/c-letter-secondary.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-cart/image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-checkbox/icon-checked.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-clip/icon-clip.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-construction-demonstration/icon-arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-construction-demonstration/image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-exit/icon-left-arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-interiors/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-interiors/text.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-item-primary/icon-arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-item/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-link/icon-call.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-link/icon-check-mark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-link/icon-filter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-link/icon-money.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-link/icon-mother.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-link/icon-pdf.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-link/icon-reload.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-list-info/icon-1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-list-info/icon-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-list-info/icon-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-list-info/icon-4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-list-info/icon-5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-list-info/icon-6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-list-info/icon-7.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-review/bg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/c-side-panel/icon-home.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/blocks/с-compass/с-compass.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/float-header/image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/header-primary/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/header-primary/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/header-secondary/bg-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/header-secondary/bg-apartament.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/header-secondary/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/header-view/bg-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/header-view/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/header/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/reviews/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/sales-office/icon-contact.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/sales-office/icon-pin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/views/sections/sales-office/icon-working.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/ScrollMagic.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/TweenMax.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/animation.gsap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/debug.addIndicators.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/hc-sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/ion.rangeSlider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/jquery.fancybox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/jquery.parallaxi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/jquery.toggle-all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/slimselect.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins/swiper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-burger/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-clip/c-clip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-construction-demonstration/c-construction-demonstration.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-layout/c-layout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-menu/c-menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-number-house/c-number-house.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-parameters/c-parameters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-range/c-range.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-select/c-select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-side-panel/c-side-panel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/blocks/c-side-secondary/c-side-secondary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/sections/header/header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/sections/history-company/history-company.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/sections/houses/houses.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/sections/reviews/reviews.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-about-company.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-apartment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-article.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-catalog-aerial.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-catalog-parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-catalog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-construction-diary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-floor-plan.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-history-company.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-house.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-job-openings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-partners.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-press-center.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-sales-office.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page-screen.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/base/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/base/_normalaize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/base/_settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-arrow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-background-lines.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-bell.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-billet.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-blockquote.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-btn-circle.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-btn.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-burger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-cart-primary.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-cart.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-checkbox.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-choice.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-clip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-construction-demonstration.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-exit.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-in-number-primary.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-input.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-interiors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-item-primary.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-item.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-line-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-link.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-list-documentation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-list-house.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-list-info.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-list-navigation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-logo.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-menu.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-nav-slide.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-notice.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-number-house.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-office-map.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-parameters-mobile.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-parameters.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-politic.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-range.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-review.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-select.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-side-panel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-side-primary.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-side-secondary.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-side-tertiary.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-sidebar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-social.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-stick-info.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-stick-price.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-table.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_c-title.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_с-compass.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_с-in-number.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/blocks/_с-square.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/layout/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/layout/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/layout/_structure.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/_ion.rangeSlider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/_jquery.fancybox.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/_slimselect.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/_swiper.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/breakpoints/mixins/_breakpoints.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/bootstrap-grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/mixins/_breakpoints.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/utilities/_display.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/utilities/_flex.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/grid/utilities/_spacing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/layout/mixins/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/layout/utilities/_display.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/layout/utilities/_position.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/layout/utilities/_spacing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/layout/utilities/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/sizing/utilities/_sizing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/utilities/_sizing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/utilities/_spacers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/plagins/bootstrap/utilities/_text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_construction-demonstration.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_float-header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_footer-primary.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_gallery.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_header-primary.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_header-secondary.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_header-view.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_history-company.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_houses.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_reviews.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/sections/_sales-office.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/states/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/states/_gutters.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/states/_hover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/states/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/states/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/states/_modifi.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/states/_shadow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/states/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/states/_z-index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/utilities/_gradient.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/utilities/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/utilities/_mixin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/utilities/_triangle.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/utilities/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/wordpress/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/wordpress/_theme_header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/blocks/c-background-lines-primary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/blocks/c-background-lines.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/blocks/c-bell.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/blocks/c-billet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/blocks/c-burger.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/blocks/c-cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/blocks/c-logo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/blocks/c-side-panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/blocks/c-sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-about-company.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-apartment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-article.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-catalog-aerial.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-catalog-parameters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-catalog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-construction-diary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-floor-plan.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-history-company.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-house.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-job-openings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-partners.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-press-center.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-sales-office.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/footer/scripts/page-screen.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/sections/documentation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/sections/footer-primary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/sections/nav-primary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/sections/nav-secondary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/sections/nav-tertiary.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/sections/nav.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/template-parts/sections/online-camera.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/scss/sections/_head.scss" afterPath="$PROJECT_DIR$/rates.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/browser.txt" afterPath="$PROJECT_DIR$/browser.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/style.css.map" afterPath="$PROJECT_DIR$/scss/style.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/style.scss" afterPath="$PROJECT_DIR$/scss/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="_font-sizes.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/states/_font-sizes.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_normalaize.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/base/_normalaize.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/base/_settings.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="88" column="39" lean-forward="false" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="3313" column="114" lean-forward="false" selection-start-line="3313" selection-start-column="114" selection-end-line="3313" selection-end-column="114" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#svg#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#svg#0;n#div#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#svg#0;n#div#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#svg#0;n#div#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#svg#0;n#div#0;n#li#3;n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c-btn.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/blocks/c-btn.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c-footer.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/blocks/c-footer.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lessons.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="420" column="55" lean-forward="false" selection-start-line="420" selection-start-column="55" selection-end-line="420" selection-end-column="55" />
+              <folding>
+                <element signature="n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#4;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#5;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#6;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6959" column="104" lean-forward="false" selection-start-line="6959" selection-start-column="104" selection-end-line="6959" selection-end-column="104" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="99" column="26" lean-forward="false" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
+              <folding>
+                <marker date="1597089963862" expanded="true" signature="415:440" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rates.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rates.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="186" column="94" lean-forward="false" selection-start-line="186" selection-start-column="94" selection-end-line="186" selection-end-column="94" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.s-banner</find>
+      <find>.c-progressbar</find>
+      <find>col-12 col-md-3 text-center</find>
+      <find>text-center c-title color-1 mb-10 mt-4 mt-md-13 mb-md-14</find>
+      <find>c-title</find>
+      <find>row row-cols-2 justify-content-between mx-auto w-100 align-items-center</find>
+      <find>http://www.w3.org/2000/svg</find>
+      <find>color-2 font-size--xxl-26 mb-xxl-4</find>
+      <find>.c-hover-block</find>
+      <find>col color-1 font-weight-bold font-size-4 text-right</find>
+      <find>row no-gutters border p-4 align-items-center mb-3 mb-xxl-7</find>
+      <find>c-card--text font-size--xxl-50</find>
+      <find>col-12 col-md-8 col-lg-6 col-xl-4</find>
+      <find>row no-gutters border--1 p-4 align-items-center mb-3 mb-xxl-6</find>
+      <find>mb-4 font-size--xxl-39</find>
+      <find>font-size--xxl-24</find>
+      <find>mb-5 color-light font-size--xxl-23 mb-xxl-11</find>
+      <find>mb-3 color-1 font-size--xxl-23 mb-xxl-7</find>
+      <find>nav flex-column nav-pills bg-1</find>
+      <find>посм</find>
+      <find>mb-3 font-size--xxl-29</find>
+      <find>mb-5 font-size-4 font-size--xxl-50 mb-xxl-90</find>
+      <find>nav-link c-lesson</find>
+      <find>d-flex justify-content-between mx-auto mb-12 font-size-4 position-relative</find>
+      <find>color-1 font-size--xxl-23</find>
+      <find>.c-footer</find>
+      <find>ALFACRM</find>
+      <find>Настройка_CRM</find>
+      <find>Базовая версия</find>
+      <find>Видеоуроки</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scss/blocks/c-plate.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-big-list.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-slider-card.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-textarea.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-tags.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-link.scss" />
+        <option value="$PROJECT_DIR$/scss/states/_all.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-lang.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-face.scss" />
+        <option value="$PROJECT_DIR$/scss/utilities/variables/_spacers.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-card.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-lesson.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-video.scss" />
+        <option value="$PROJECT_DIR$/history.html" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-tablist.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-burger.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-nav.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-switcher.scss" />
+        <option value="$PROJECT_DIR$/scss/states/_font-weight.scss" />
+        <option value="$PROJECT_DIR$/scss/utilities/variables/_grid-breakpoints.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-icon.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-modal-reg.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-fixed-btn.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/index.scss" />
+        <option value="$PROJECT_DIR$/scss/utilities/variables/_colors.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-input.scss" />
+        <option value="$PROJECT_DIR$/components.html" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-modal.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-img.scss" />
+        <option value="$PROJECT_DIR$/scss/states/_line-height.scss" />
+        <option value="$PROJECT_DIR$/scss/layout/_structure.scss" />
+        <option value="$PROJECT_DIR$/api.html" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-template.scss" />
+        <option value="$PROJECT_DIR$/scss/sections/s-banner.scss" />
+        <option value="$PROJECT_DIR$/template.html" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-progressbar.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-title.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-hover-block.scss" />
+        <option value="$PROJECT_DIR$/news.html" />
+        <option value="$PROJECT_DIR$/scss/states/_index.scss" />
+        <option value="$PROJECT_DIR$/scss/states/_border.scss" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-btn.scss" />
+        <option value="$PROJECT_DIR$/scss/states/_font-sizes.scss" />
+        <option value="$PROJECT_DIR$/lessons.html" />
+        <option value="$PROJECT_DIR$/scss/base/_settings.scss" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/scss/blocks/c-footer.scss" />
+        <option value="$PROJECT_DIR$/main.html" />
+        <option value="$PROJECT_DIR$/base.html" />
+        <option value="$PROJECT_DIR$/rates.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="329" />
+    <option name="y" value="168" />
+    <option name="width" value="1501" />
+    <option name="height" value="918" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ALFACRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALFACRM" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ALFACRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALFACRM" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ALFACRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALFACRM" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ALFACRM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALFACRM" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="base" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../o1standard" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\ALFACRM" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b803359c-d47f-4f38-8b57-a3a6e6c98128" name="Default" comment="" />
+      <created>1595660530151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595660530151</updated>
+      <workItem from="1595660531403" duration="7660000" />
+      <workItem from="1595825940797" duration="11893000" />
+      <workItem from="1595839801148" duration="1602000" />
+      <workItem from="1595844259041" duration="2066000" />
+      <workItem from="1595848188440" duration="11606000" />
+      <workItem from="1595863881337" duration="1731000" />
+      <workItem from="1595929660579" duration="13968000" />
+      <workItem from="1595951965538" duration="10638000" />
+      <workItem from="1595998390865" duration="39000" />
+      <workItem from="1596018131398" duration="20423000" />
+      <workItem from="1596437564121" duration="21733000" />
+      <workItem from="1596545093210" duration="12020000" />
+      <workItem from="1596632127588" duration="35192000" />
+      <workItem from="1596797271258" duration="8029000" />
+      <workItem from="1596989543202" duration="2213000" />
+      <workItem from="1596992541734" duration="35817000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196630000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23039742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19103773" sideWeight="0.51181525" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.071428575" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900944" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19103773" sideWeight="0.48818475" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0881104" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-tablist.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding>
+            <element signature="e#670#907#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-burger.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-switcher.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/search.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/states/_font-weight.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-slider-card.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/utilities/variables/_grid-breakpoints.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Иконка.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../whatsapp.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Телефон.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-icon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../skype (1).svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../telegram.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Сгруппировать 55.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Сгруппировать 56.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mail.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-fixed-btn.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-modal-reg.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="20" column="86" lean-forward="false" selection-start-line="20" selection-start-column="86" selection-end-line="20" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/utilities/variables/_colors.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-link.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-input.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-img.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-modal.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="47" column="19" lean-forward="false" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="123" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#5;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/states/_line-height.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/utilities/variables/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/utilities/variables/_spacers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/layout/_structure.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="75" column="13" lean-forward="false" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-nav.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="182" column="26" lean-forward="true" selection-start-line="182" selection-start-column="26" selection-end-line="182" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/sections/s-banner.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="179" column="55" lean-forward="true" selection-start-line="179" selection-start-column="55" selection-end-line="179" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-title.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-hover-block.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="879" column="22" lean-forward="false" selection-start-line="879" selection-start-column="22" selection-end-line="879" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#div#1;n#div#3;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#svg#0;n#a#0;n#div#1;n#div#3;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#1;n#div#1;n#div#3;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#svg#0;n#a#1;n#div#1;n#div#3;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#2;n#div#1;n#div#3;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#3;n#div#1;n#div#3;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/states/_border.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-template.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-progressbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/states/_index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/states/_font-sizes.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="56" column="8" lean-forward="false" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/base/_normalaize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="420" column="55" lean-forward="false" selection-start-line="420" selection-start-column="55" selection-end-line="420" selection-end-column="55" />
+          <folding>
+            <element signature="n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#4;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#5;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#6;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-btn.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/base/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="88" column="39" lean-forward="false" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="99" column="26" lean-forward="false" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
+          <folding>
+            <marker date="1597089963862" expanded="true" signature="415:440" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/blocks/c-footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6959" column="104" lean-forward="false" selection-start-line="6959" selection-start-column="104" selection-end-line="6959" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="3313" column="114" lean-forward="false" selection-start-line="3313" selection-start-column="114" selection-end-line="3313" selection-end-column="114" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#svg#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#svg#0;n#div#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#svg#0;n#div#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#svg#0;n#div#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#svg#0;n#div#0;n#li#3;n#ul#0;n#div#2;n#div#0;n#div#4;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rates.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="186" column="94" lean-forward="false" selection-start-line="186" selection-start-column="94" selection-end-line="186" selection-end-column="94" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

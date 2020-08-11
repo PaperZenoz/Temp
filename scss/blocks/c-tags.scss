@@ -1,0 +1,14 @@
+.c-tags{
+  display: flex;
+  flex-wrap: wrap;
+  &__item{
+    color: $color-1;
+    padding: 0 10px;
+    height: 30px;
+    line-height: 30px;
+    background: $bg-1;
+    margin-right: 15px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+}

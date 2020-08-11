@@ -1,0 +1,55 @@
+.c-input {
+  border: 1px solid $color-light-1;
+  border-radius: 6px;
+  height: 50px;
+  width: 100%;
+  padding: 0 15px;
+
+  &__box {
+    position: relative;
+  }
+
+  &__error {
+    color: $color-error;
+    position: absolute;
+    bottom: 4px;
+    display: none;
+  }
+
+  &.error {
+    border: 1px solid $color-error;
+
+    & + .c-input__error {
+      display: block;
+      font-size: 14px;
+      @include media-breakpoint-down(sm) {
+        font-size: 10px;
+      }
+    }
+  }
+
+  &.succes {
+    border: 1px solid $color-succes;
+  }
+
+  &__icon {
+    svg {
+      width: 20px;
+      height: 21px;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      left: 10px;
+
+    }
+
+  }
+
+  &--search {
+    background: #F8F8F8;
+    border: none;
+    padding: 0 40px;
+    position: relative;
+  }
+
+}

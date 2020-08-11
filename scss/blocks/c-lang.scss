@@ -1,0 +1,35 @@
+.c-lang {
+  color: $color-main !important;
+  position: relative;
+  opacity: 0.5;
+  &.active:before {
+    content: '';
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: $color-1;
+    display: block;
+    position: absolute;
+    top: 25px;
+    left: 50%;
+    transform: translate(-50%);
+    @include media-breakpoint-up(xxl){
+      width: 9px;
+      height: 9px;
+      top: 40px;
+    }
+
+  }
+  &.active {
+    opacity: 1;
+
+  }
+
+  &:before {
+    display: none;
+  }
+
+  @include media-breakpoint-up(xxl){
+    font-size: 25px;
+  }
+}

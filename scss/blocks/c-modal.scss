@@ -1,0 +1,58 @@
+.c-modal{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 100;
+  display: none;
+
+  &__shadow{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(black, 0.5);
+  }
+
+  &__box{
+    width: calc(100% - 30px);
+    max-width: 550px;
+    background: white;
+    right: 50%;
+    top: 50%;
+    transform: translate(50%, -50%);
+    min-height: 400px;
+    position: absolute;
+    padding: 60px;
+    max-height: calc(100vh - 30px);
+    overflow-y: scroll;
+
+    @include media-breakpoint-down(md){
+      padding: 20px;
+    }
+  }
+
+  &__close{
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    border:1px solid $color-light-1;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    font-size: 23px;
+    cursor: pointer;
+    @include media-breakpoint-down(md){
+      width: 30px;
+      height: 30px;
+      line-height: 30px;
+      font-size: 15px;
+      right: 10px;
+      top: 10px;
+    }
+  }
+}

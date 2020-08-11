@@ -1,0 +1,44 @@
+.fade-in{
+	transform:translateY(50%);
+	opacity: 0;
+	&.active{
+		transform:translateY(0%);
+		opacity: 1;
+	}
+}
+
+
+
+
+.fade-in-image{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	pointer-events: none;
+	&:before{
+		content: "";
+		height: 100%;
+		width: 100%;
+		//background: $color-rare-secondary;
+		position: absolute;
+		top: 0;
+		left: 0;
+		transition:all 1.5s;
+		z-index: 2;
+	}
+	& + img{
+		transition:all 1s 1s;
+	}
+
+	&.active{
+		&:before{
+			transform:translateY(105%);
+		}
+		& + img{
+			transform:scale(1.1);
+		}
+	}
+}

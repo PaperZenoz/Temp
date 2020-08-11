@@ -1,0 +1,23 @@
+.color{
+	&-1{
+		color: $color-1;
+	}
+
+	&-2{
+		color: $color-2;
+	}
+
+	&-main{
+		color: $color-main;
+	}
+
+	&-light{
+		color: $color-light;
+	}
+}
+
+.bg{
+	&-1{
+		background: $bg-1;
+	}
+}
